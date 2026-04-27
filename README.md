@@ -46,6 +46,7 @@ Identificar falhas de cobertura, interferência e desempenho, propondo melhorias
 - Melhor escolha de canal Wi-Fi :contentReference[oaicite:4]{index=4}
 
 ## 📄 Relatórios
+https://github.com/bancadabd-bot/projeto-Wifi/blob/main/Relatorio-Comparativo.pdf.pdf
 
 
 ## 👨‍💻 Autor
