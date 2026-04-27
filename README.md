@@ -47,6 +47,7 @@ Identificar falhas de cobertura, interferência e desempenho, propondo melhorias
 
 ## 📄 Relatórios
 https://github.com/bancadabd-bot/projeto-Wifi/blob/main/Relatorio-Comparativo.pdf.pdf
+https://github.com/bancadabd-bot/projeto-Wifi/blob/main/Trabalho-de-Wi-Fi.pdf
 
 
 ## 👨‍💻 Autor
